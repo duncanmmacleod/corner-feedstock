@@ -31,7 +31,7 @@ test:
     - corner
 
 about:
-  home: http://github.com/dfm/corner
+  home: http://github.com/dfm/corner.py
   license: MIT
   license_family: MIT
   license_file: LICENSE
@@ -44,7 +44,7 @@ about:
     of Markov Chain Monte Carlo simulations and the defaults are chosen with this application
     in mind but it can be used for displaying many qualitatively different samples.
   doc_url: http://corner.readthedocs.io/
-  dev_url: https://github.com/dfm/corner
+  dev_url: https://github.com/dfm/corner.py
 
 extra:
   recipe-maintainers:
