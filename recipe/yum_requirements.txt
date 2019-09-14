@@ -1,0 +1,3 @@
+libX11-devel
+libXt-devel
+xorg-x11-server-Xvfb
